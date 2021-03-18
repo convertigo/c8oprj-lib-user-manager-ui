@@ -27,6 +27,7 @@ title: Title for Page
       ↓CallSequence [mobile.components.UIDynamicAction-1572939315358]: 
         beanData: '{"ionBean":"CallSequenceAction","requestable":"plain:lib_OAuth.SignOut"}'
   ↓UseSharedComponent [mobile.components.UIUseShared-1572626026023]: 
+    isEnabled: false
     sharedcomponent: lib_UserManager_ui.MobileApplication.Application.LoginComponent
 ↓Subscribe_Handler [mobile.components.UIEventSubscriber-1572609277501]: 
   topic: login
